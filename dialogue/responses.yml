@@ -1,0 +1,18 @@
+hello:
+  - response: "{hello_synonym} {commenter_name}, you {meatbag_synonym}!"
+    response_args:
+      hello_synonym:
+        synonym:
+          keyword: hello
+          tags:
+            - interjection
+            - how do you do
+          is_time_sensitive: true
+      meatbag_synonym:
+        synonym:
+          keyword: meatbag
+          tags:
+            - noun
+            - human insult
+      commenter_name:
+        kwargs: true

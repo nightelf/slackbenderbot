@@ -1,0 +1,13 @@
+- regex: "{hello_synonym}[,]? {commentee_name}"
+  regex_args:
+    hello_synonym:
+      synonym:
+        keyword: hello
+        tags:
+          - interjection
+          - how do you do
+        is_time_sensitive: false
+    commentee_name:
+      kwargs: true
+  response_keyword:
+    - hello

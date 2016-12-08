@@ -1,0 +1,62 @@
+hello:
+  - tags:
+      - interjection
+      - how do you do
+    synonyms:
+      - greetings
+      - hi
+      - howdy
+      - welcome
+      - bonjour
+      - hello
+      - hey
+      - hiya
+      - how are you
+      - shalom
+      - wazzup
+      - sup
+  - tags:
+      - interjection
+      - how do you do
+      - morning
+    synonyms:
+      - good morning
+      - good day
+  - tags:
+      - interjection
+      - how do you do
+      - afternoon
+    synonyms:
+      - good afternoon
+      - good day
+  - tags:
+      - interjection
+      - how do you do
+      - evening
+      - good day
+    synonyms:
+      - good evening
+  - tags:
+      - interjection
+      - how do you do
+      - night
+    synonyms:
+      - good night
+meatbag:
+  - tags:
+      - human insult
+      - noun
+    synonyms:
+      - beefball
+      - coffin stuffer
+      - meatbag
+      - meatloaf
+      - meatball
+      - fleshwad
+      - flesh-pile
+      - pork-pouch
+      - pork pie
+      - sausage link
+      - skinbag
+      - sack of skin
+
